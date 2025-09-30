@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course overview and information on
   meeting times, prerequisites, requirements, course materials, logistics, academic
   integrity, collaboration, and resources.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -80,8 +82,8 @@ Tyler, Elaine. _Barren in the Promised Land: Childless Americans and the Pursuit
 Logistics
 ---------
 
-*   Please sign up for the {{% resource_link "31157546-5688-4a32-a543-1b5d1bb1264a" "Daily Women's Health Policy Report" %}}. This will help us to keep up with news about reproductive politics and health policy.
-*   You may also be interested in the {{% resource_link "874b29f2-fec5-4acd-b83e-55c89eb800f4" "Guttmacher Institute" %}}, which has research articles, data, and monthly updates on state policies governing reproductive health and rights.
+*   Please sign up for the [Daily Women's Health Policy Report](http://go.nationalpartnership.org/site/PageServer?pagename=report_daily). This will help us to keep up with news about reproductive politics and health policy.
+*   You may also be interested in the [Guttmacher Institute](http://www.guttmacher.org/), which has research articles, data, and monthly updates on state policies governing reproductive health and rights.
 *   The class chose how to spend the last two weeks of the semester:
     *   Read _Why Have Kids?: A New Mom Explores the Truth About Parenting and Happiness_ by Jessica Valenti. New Harvest, 2012. ISBN: 9780547892610
 
